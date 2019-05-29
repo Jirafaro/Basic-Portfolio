@@ -128,16 +128,38 @@ footer {
 
 .Abouttext {
     margin: -590px 26px 170px 415px;
+    color: #ffffff;
 }
 
 #Contactname {
-
+    width:600px;
 }
 
 #Contactemail {
-    
+    width: 600px;
 }
 
 #Contactmessage {
-    
+    width: 600px;
+    height: 321px;
+    vertical-align: top;
+}
+
+.footer2 {
+    bottom: -219px;
+    padding: 20px;
+    border-color: aqua;
+    text-align: center;
+    background-color: rgb(48, 46, 46);
+    margin-top: 60px;
+    border: 10px;
+    position: relative;
+    color: #ffffff;
+}
+
+.button {
+    padding: 20px;
+    width: 100px;
+    height: 40px;
+    margin: 0px 0px 20px 0px;
 }
